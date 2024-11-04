@@ -1,4 +1,4 @@
-# U5S3 - Using break and continue statements
+# U6S3 - Using break and continue statements
 
 * Part A - Foundations 6.3
 * Part B - Foundations practice
