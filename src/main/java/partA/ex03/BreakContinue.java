@@ -11,7 +11,7 @@ public class BreakContinue {
 
             }
 
-            response += ("The number is " + i );
+            System.out.println("The number is " + i );
 
             if( i == 7 ) {
 
